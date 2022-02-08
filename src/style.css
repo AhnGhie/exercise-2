@@ -1,0 +1,33 @@
+.myDiv {
+  text-align: center;
+  padding: 40px;
+}
+
+.myButton {
+  background-color: #64bd5f;
+  color: #ffff;
+  border: 2px;
+  border-radius: 5px;
+  margin: 5px #ffff;
+  font-family: sans-serif;
+  font-weight: 200;
+  font-size: 30px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.myButton:hover {
+  background: #265c23;
+}
+
+.myButton:active,
+.myButton:focus {
+  border: 3px solid #bedbbc;
+}
+
+.border {
+  border: 5px solid #64bd5f;
+  border-radius: 20px;
+  padding-bottom: 10px;
+  margin-top: 20px;
+}
